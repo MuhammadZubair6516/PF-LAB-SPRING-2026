@@ -32,6 +32,3 @@ The purpose of this repository is to:
 - All programs are tested and verified to work correctly.  
 - Please feel free to explore the code, learn, and reference for study purposes.  
 
-
-- All programs are tested and verified to work correctly.  
-- Please feel free to explore the code, learn, and reference for study purposes.  
