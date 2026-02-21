@@ -1,4 +1,4 @@
-📌 Introduction
+##📌 Introduction
 
 This lab focuses on understanding and implementing Nested Decision Structures in C programming. Nested decisions allow programs to evaluate multiple conditions in a structured and hierarchical manner. These structures help in handling complex logic efficiently while maintaining code readability and organization.
 
@@ -14,7 +14,7 @@ Operators in C
 
 Introduction to Math Library Functions
 
-🎯 Aims
+##🎯 Aims
 
 Manage Complex Decision Making
 Handle complex decision processes where multiple conditions must be checked in a specific order, often depending on earlier decisions.
@@ -28,7 +28,7 @@ Build programs that separate logical branches clearly for organized and maintain
 Achieve Precise Outcomes
 Execute accurate operations by evaluating a sequence of conditions appropriately.
 
-✅ Objectives
+##✅ Objectives
 
 Efficiently Handle Multiple Scenarios
 Manage multiple conditions effectively without excessive repetition of code.
@@ -45,7 +45,7 @@ Structure programs with clear decision-making paths.
 Minimize Redundancy
 Reduce duplication of code by reusing common conditions within nested branches.
 
-🛠 Tools & Concepts Used
+##🛠 Tools & Concepts Used
 
 C Programming Language
 
@@ -59,6 +59,6 @@ Relational & Logical Operators
 
 Math Library Functions (math.h)
 
-📂 Lab Tasks
+##📂 Lab Tasks
 
 This repository contains all tasks related to Lab 05, demonstrating practical implementation of nested decision-making structures and related concepts in C programming.
