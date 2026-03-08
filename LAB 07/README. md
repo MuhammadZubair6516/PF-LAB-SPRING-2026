@@ -85,21 +85,3 @@ To allow loops to start, continue, or terminate based on conditions using contro
 
 ---
 
-## **Introduction**
-
-In this lab, we explore the concept of **One-Dimensional Arrays in C** and how loops are used to manipulate and process array data efficiently.
-
-Arrays allow programmers to store multiple values of the same data type in a single variable, making it easier to manage and process large datasets. When combined with loops, arrays become powerful tools that enable efficient iteration, modification, and analysis of stored data.
-
-Understanding arrays is essential in programming because they are widely used in data processing, record management, and algorithm implementation.
-
----
-
-## **Topics Covered**
-
-### **1. Arrays in C**
-Arrays are collections of elements of the same data type stored in contiguous memory locations. They allow multiple values to be stored under a single variable name and accessed using an index.
-
-Example:
-```c
-int numbers[5];
