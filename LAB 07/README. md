@@ -1,0 +1,64 @@
+# Lab 07 – Introduction to One-Dimensional Arrays with Loops
+
+## Programming Fundamentals (CL1002)
+
+---
+
+## Aims and Objectives
+
+### Aims
+
+#### 1. Automating Repetitive Tasks
+To eliminate manual repetition by automating repetitive tasks using loops and arrays, making the code more efficient and easier to manage.
+
+#### 2. Efficient Code Execution
+To enhance the efficiency of programs by reducing the amount of code required for repeating operations, leading to faster and optimized execution.
+
+#### 3. Improve Code Readability and Maintainability
+To improve the readability and maintainability of code by using structured programming constructs instead of writing long duplicated blocks of code.
+
+#### 4. Control Flow Management
+To give programmers better control over the program flow by allowing loops to repeatedly execute a block of code based on specific conditions.
+
+#### 5. Dynamic Input Handling
+To process dynamic inputs and sequences of data effectively, allowing programs to handle user input and multiple data elements efficiently.
+
+---
+
+### Objectives
+
+#### 1. Iterate Over Data Structures
+To learn how loops can iterate over data structures such as arrays and collections without writing repetitive code.
+
+#### 2. Terminate on Specific Conditions
+To ensure loops execute only while a specific condition is true and terminate when the desired outcome is achieved.
+
+#### 3. Reduce Code Complexity
+To simplify programming tasks by reducing unnecessary lines of code and organizing repeated tasks logically.
+
+#### 4. Support Event-Driven Programming
+To allow programs to continuously check inputs, actions, or triggers in applications that require ongoing monitoring.
+
+#### 5. Flexible Program Execution
+To allow loops to start, continue, or terminate based on conditions using control statements such as `break` and `continue`.
+
+---
+
+## Introduction
+
+In this lab, we explore the concept of **One-Dimensional Arrays in C** and how loops are used to manipulate and process array data efficiently.
+
+Arrays allow programmers to store multiple values of the same data type in a single variable, making it easier to manage and process large datasets. When combined with loops, arrays become powerful tools that enable efficient iteration, modification, and analysis of stored data.
+
+Understanding arrays is essential in programming because they are widely used in data processing, record management, and algorithm implementation.
+
+---
+
+## Topics Covered
+
+### 1. Arrays in C
+Arrays are collections of elements of the same data type stored in contiguous memory locations. They allow multiple values to be stored under a single variable name and accessed using an index.
+
+Example:
+```c
+int numbers[5];
