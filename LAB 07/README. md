@@ -1,88 +1,83 @@
 # Lab 07 – Introduction to One-Dimensional Arrays with Loops
 
-## Programming Fundamentals (CL1002)
-National University of Computer and Emerging Sciences  
-Spring 2026
+**Course:** Programming Fundamentals (CL1002)  
+**University:** National University of Computer and Emerging Sciences  
+**Semester:** Spring 2026  
 
 ---
 
-## Introduction
+## **Introduction**
 
-This lab focuses on understanding and implementing **One-Dimensional Arrays** in C programming along with the use of **loops**. Arrays allow programmers to store multiple values of the same data type in a single variable, making programs more efficient and organized.
+This lab focuses on understanding and implementing **one-dimensional arrays** in the C programming language along with the use of **loops**. Arrays allow programmers to store multiple values of the same data type in a single variable, making programs more efficient and organized.
 
-By combining arrays with loops, programmers can easily process large amounts of data without writing repetitive code. This lab also introduces concepts related to **memory representation**, **character arrays**, and advanced input techniques such as **scansets** used in `scanf()`.
-
-### Topics Covered
-1. Arrays in C  
-2. Interpretation  
-3. Memory Representation  
-4. Character Arrays  
-5. Accessing and Modifying Character Arrays  
-6. Scanset  
-7. Negating a Scanset  
+By combining **arrays and loops**, programmers can process large amounts of data easily without writing repetitive code. This lab also introduces concepts related to **memory representation**, **character arrays**, and advanced input techniques such as **scansets** used in `scanf()`.
 
 ---
 
-## Aims
+## **Topics Covered**
 
-- **Automating Repetitive Tasks**  
-  Eliminate manual repetition by using loops and arrays to perform repetitive operations efficiently.
-
-- **Efficient Code Execution**  
-  Improve program efficiency by reducing the amount of repeated code required for performing similar tasks.
-
-- **Improve Code Readability and Maintainability**  
-  Write cleaner and more structured code by using loops instead of repeating similar blocks of statements.
-
-- **Control Flow Management**  
-  Provide better control over program execution by repeatedly running a block of code based on defined conditions.
-
-- **Dynamic Input Handling**  
-  Allow programs to process sequences of data and user input dynamically using arrays and loops.
+- Arrays in C  
+- Interpretation  
+- Memory Representation  
+- Character Arrays  
+- Accessing and Modifying Character Arrays  
+- Scanset  
+- Negating a Scanset  
 
 ---
 
-## Objectives
+## **Aims**
 
-- **Iterate Over Data Structures**  
-  Use loops to process elements of arrays and other data collections without writing repetitive statements.
+### **1. Automating Repetitive Tasks**
+Use loops and arrays to eliminate repetitive manual coding and perform tasks efficiently.
 
-- **Terminate on Specific Conditions**  
-  Ensure loops run only while a specific condition is satisfied and terminate once the required condition is met.
+### **2. Efficient Code Execution**
+Improve program performance by reducing repeated code blocks and handling data through arrays.
 
-- **Reduce Code Complexity**  
-  Simplify programming logic by organizing repetitive tasks using loops and arrays.
+### **3. Improve Code Readability and Maintainability**
+Write cleaner and well-structured code by using loops instead of repeating similar statements.
 
-- **Support Event-Driven Programming**  
-  Allow programs to continuously monitor inputs or conditions when required.
+### **4. Control Flow Management**
+Manage program execution effectively by repeating blocks of code based on conditions.
 
-- **Flexible Program Execution**  
-  Enable loops to start, continue, or terminate depending on the evaluation of conditions using statements like `break` and `continue`.
-
----
-
-## Tools & Concepts Used
-
-- C Programming Language  
-- One-Dimensional Arrays  
-- Loop Structures (`for`, `while`)  
-- Character Arrays (Strings)  
-- Memory Representation of Arrays  
-- Scanset in `scanf()`  
-- Negated Scanset  
+### **5. Dynamic Input Handling**
+Allow programs to process sequences of data and user input dynamically using arrays and loops.
 
 ---
 
-## Conclusion
+## **Objectives**
 
-This lab introduced the concept of **one-dimensional arrays** and demonstrated how loops can be used to efficiently access, modify, and process array elements in C programming. Understanding arrays and loops is essential for handling large datasets and building structured and efficient programs. The lab also explored **character arrays and scansets**, which are important techniques for handling user input and string data in C.To simplify programming tasks by reducing unnecessary lines of code and organizing repeated tasks logically.
+### **1. Iterate Over Data Structures**
+Use loops to access and process elements of arrays without writing repetitive code.
 
-#### **4. Support Event-Driven Programming**
-To allow programs to continuously check inputs, actions, or triggers in applications that require ongoing monitoring.
+### **2. Terminate on Specific Conditions**
+Ensure loops execute only while a specific condition is true and stop when the condition is no longer satisfied.
 
-#### **5. Flexible Program Execution**
-To allow loops to start, continue, or terminate based on conditions using control statements such as `break` and `continue`.
+### **3. Reduce Code Complexity**
+Simplify program logic by organizing repetitive tasks through loops and arrays.
+
+### **4. Support Event-Driven Programming**
+Allow programs to continuously monitor inputs or events when necessary.
+
+### **5. Flexible Program Execution**
+Enable loops to start, continue, or terminate using control statements like `break` and `continue`.
 
 ---
 
+## **Tools & Concepts Used**
 
+- **C Programming Language**
+- **One-Dimensional Arrays**
+- **Loop Structures** (`for`, `while`)
+- **Character Arrays (Strings)**
+- **Memory Representation of Arrays**
+- **Scanset in `scanf()`**
+- **Negated Scanset**
+
+---
+
+## **Conclusion**
+
+This lab introduced the concept of **one-dimensional arrays** and demonstrated how loops can be used to efficiently access, modify, and process array elements in C programming.
+
+Understanding **arrays and loops** is essential for handling large datasets and building structured and efficient programs. The lab also explored **character arrays and scansets**, which are useful techniques for handling user input and string data in C.
