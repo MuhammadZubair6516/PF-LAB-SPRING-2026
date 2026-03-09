@@ -1,74 +1,73 @@
-# Lab 07 – Introduction to One-Dimensional Arrays with Loops
+# Lab 06 – Introduction to Iterative Structures (Loops)
 
 ## Programming Fundamentals – Spring 2026
 
 
 ## INTRODUCTION
-In this lab, we study **One-Dimensional Arrays** in C programming along with the use of **loops**.  
-Arrays allow programmers to store multiple values of the same data type in a single variable, making programs more organized and efficient.
-
-By combining **arrays and loops**, programmers can process and manipulate large amounts of data without writing repetitive code. This lab also introduces concepts related to **memory representation**, **character arrays**, and **scanset techniques** used in `scanf()` for advanced input handling.
+In this lab, we study **Iterative Structures (Loops)** in C programming.  
+Loops allow a block of code to execute repeatedly until a specific condition is satisfied.  
+They are essential for writing efficient and dynamic programs.
 
 ---
 
 ## TOPICS COVERED
-- Arrays in C  
-- Interpretation  
-- Memory Representation  
-- Character Arrays  
-- Accessing and Modifying Character Arrays  
-- Scanset  
-- Negating a Scanset  
+- Introduction to Loops and Their Types  
+- For Loop  
+- While Loop  
+- Do-While Loop  
+
+--- 
 
 ---
 
 ## AIMS
 
 ### 1. Automating Repetitive Tasks
-- Use arrays and loops to handle repeated operations efficiently.  
-- Reduce manual repetition in programs.
+- Eliminate manual repetition by automating repeated tasks.  
+- Make programs more efficient and easier to manage.
 
 ### 2. Efficient Code Execution
-- Store and process multiple values using arrays.  
-- Improve program efficiency by minimizing repeated code.
+- Reduce the amount of code required for repeated operations.  
+- Improve overall program performance and execution speed.
 
 ### 3. Improve Code Readability and Maintainability
-- Organize related data in arrays.  
-- Write cleaner and more structured programs.
+- Use structured loops instead of duplicated code blocks.  
+- Write cleaner, more understandable programs.
 
 ### 4. Control Flow Management
-- Use loops to access and modify array elements.  
-- Control program execution while processing multiple values.
+- Execute blocks of code repeatedly based on specific conditions.  
+- Gain better control over program execution flow.
 
 ### 5. Dynamic Input Handling
-- Allow programs to process sequences of user input.  
-- Handle multiple data values efficiently using arrays.
+- Continuously process user input or data sequences.  
+- Allow programs to behave flexibly based on changing conditions.
 
 ---
 
 ## OBJECTIVES
 
 ### 1. Iterate Over Data Structures
-- Use loops to access elements of arrays efficiently.  
-- Process data collections without writing repetitive statements.
+- Traverse arrays and other collections efficiently.  
+- Avoid writing repetitive code for each element.
 
 ### 2. Terminate on Specific Conditions
-- Ensure loops run only when required conditions are satisfied.  
-- Stop execution when the condition becomes false.
+- Ensure loops stop when required conditions are met.  
+- Prevent infinite execution.
 
 ### 3. Reduce Code Complexity
-- Simplify programming tasks by organizing data in arrays.  
-- Use loops to process data logically and efficiently.
+- Simplify complex tasks using loop structures.  
+- Make programs more logical and structured.
 
 ### 4. Support Event-Driven Programming
-- Allow programs to monitor input or conditions continuously when required.
+- Enable continuous checking of inputs or triggers.  
+- Useful in real-time and interactive applications.
 
 ### 5. Flexible Program Execution
-- Use control statements like `break` and `continue` while processing arrays.
+- Use control statements like `break` and `continue`.  
+- Start, pause, or terminate loops as needed.
 
 ---
 
 ## CONCLUSION
-Lab 07 introduces the concept of **one-dimensional arrays** and demonstrates how loops can be used to efficiently access, modify, and process array elements in C programming.
-
-Understanding arrays along with loops helps programmers manage larger datasets, reduce repetitive code, and build structured and efficient programs.
+Lab 06 strengthens the understanding of loop structures and their practical implementation.  
+By mastering iterative structures, students can write efficient, maintainable, and well-structured programs capable of handling repetitive tasks effectively.
