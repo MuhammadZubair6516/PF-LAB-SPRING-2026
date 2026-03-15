@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-	int i,j,total,s,hall [5][6] = {{0,1,0,1,0,1},{1,1,0,0,1,1},{0,1,0,0,0,1},{0,0,0,0,0,1},{1,1,0,0,0,1}} ,avg;
-       for (i = 0; i<5; i++) {
-           for (j = 0; j<6; j++) {
+	int i,j,total,s, marks[4][3]= {{80, 75, 90},{60, 70, 85},{88, 92, 79},{55, 65, 70}} ,avg;
+       for (i = 0; i<4; i++) {
+           for (j = 0; j<3; j++) {
             printf("%d ",marks[i][j]);   
 }
             printf("\n");   
