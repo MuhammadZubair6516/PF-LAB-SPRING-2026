@@ -24,8 +24,8 @@ const String sheet_url = "sheet url to be written here ";
 
 void setup() {
   Serial.begin(9600);
-s
-  pinMode(BUZZER, OUTPUT)
+
+  pinMode(BUZZER, OUTPUT);
 
   WiFi.begin(ssid, password);
 
